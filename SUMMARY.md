@@ -1,14 +1,12 @@
 # Table of contents
 
-* [🎆 Салют!](README.md)
-* [TEMP - Что нужно в сборнике](temp-chto-nuzhno-v-sbornike.md)
+* [Салют!](README.md)
 
-## База
+## Основы
 
-* [Введение](baza/vvedenie.md)
-* [Часто задаваемые вопросы](baza/chasto-zadavaemye-voprosy.md)
-* [Список возможностей движка](baza/spisok-vozmozhnostei-dvizhka.md)
-* [Сообщество](baza/soobshestvo.md)
+* [Кратко про Defold](osnovy/kratko-pro-defold.md)
+* [Часто задаваемые вопросы](osnovy/chasto-zadavaemye-voprosy.md)
+* [Сообщество](osnovy/soobshestvo.md)
 
 ## Lua
 

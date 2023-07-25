@@ -11,7 +11,6 @@
 ## Начало работы
 
 * [Обзор редактора Defold](nachalo-raboty/obzor-redaktora-defold.md)
-* [Page 2](nachalo-raboty/page-2.md)
 
 ## Lua
 
@@ -21,9 +20,11 @@
 * [Основы](lua/osnovy/README.md)
   * [Переменные](lua/osnovy/peremennye.md)
   * [Типы и значения](lua/osnovy/tipy-i-znacheniya.md)
-  * [Выражения](lua/osnovy/vyrazheniya.md)
-  * [Операторы](lua/osnovy/operatory.md)
-  * [Циклы](lua/osnovy/cikly.md)
+  * [Комментарии](lua/osnovy/kommentarii.md)
+  * [Операции и операторы](lua/osnovy/operacii-i-operatory.md)
+  * [Управляющие конструкции](lua/osnovy/upravlyayushie-konstrukcii.md)
+  * [Таблицы](lua/osnovy/tablicy.md)
+  * [Функции](lua/osnovy/funkcii.md)
   * [Обработка ошибок](lua/osnovy/obrabotka-oshibok.md)
   * [Сопрограммы](lua/osnovy/soprogrammy.md)
   * [Структуры данных](lua/osnovy/struktury-dannykh.md)

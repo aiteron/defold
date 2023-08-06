@@ -15,8 +15,6 @@
 ## Lua
 
 * [Введение](lua/vvedenie.md)
-* [TEMP](lua/temp.md)
-* [TEST](lua/test.md)
 * [Основы](lua/osnovy/README.md)
   * [Переменные](lua/osnovy/peremennye.md)
   * [Типы и значения](lua/osnovy/tipy-i-znacheniya.md)
@@ -35,6 +33,8 @@
   * [ООП в Lua](lua/osnovy/oop-v-lua.md)
   * [Слабые таблицы и финализаторы](lua/osnovy/slabye-tablicy-i-finalizatory.md)
   * [Стандартные библиотеки](lua/osnovy/standartnye-biblioteki.md)
+* [Продвинутое](lua/prodvinutoe/README.md)
+  * [Итераторы и замыкания](lua/prodvinutoe/iteratory-i-zamykaniya.md)
 
 ## Туториалы
 

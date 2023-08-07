@@ -14,7 +14,7 @@ layout:
 
 # Типы и значения
 
-Переменные хранят значения и объекты. В Lua существует 8 базовых типов: nil, boolean, number, string, table, function, userdata, thread
+Переменные хранят значения. В Lua существует 8 базовых типов значений: nil, boolean, number, string, table, function, userdata, thread
 
 ### Отсутствие значения (nil)
 

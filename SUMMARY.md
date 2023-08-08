@@ -35,6 +35,7 @@
   * [Стандартные библиотеки](lua/osnovy/standartnye-biblioteki.md)
 * [Продвинутое](lua/prodvinutoe/README.md)
   * [Итераторы и замыкания](lua/prodvinutoe/iteratory-i-zamykaniya.md)
+  * [Компиляция, выполнение и ошибки](lua/prodvinutoe/kompilyaciya-vypolnenie-i-oshibki.md)
 
 ## Туториалы
 

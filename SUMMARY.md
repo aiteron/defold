@@ -6,7 +6,10 @@
 
 * [Кратко про Defold](osnovy/kratko-pro-defold.md)
 * [Часто задаваемые вопросы](osnovy/chasto-zadavaemye-voprosy.md)
-* [Сообщество](osnovy/soobshestvo.md)
+* [Сообщество](osnovy/soobshestvo/README.md)
+  * [Page dfsfsd](osnovy/soobshestvo/page-dfsfsd/README.md)
+    * [Page dafdfa](osnovy/soobshestvo/page-dfsfsd/page-dafdfa/README.md)
+      * [Page dasfsd](osnovy/soobshestvo/page-dfsfsd/page-dafdfa/page-dasfsd.md)
 
 ## Начало работы
 
